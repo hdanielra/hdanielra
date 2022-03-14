@@ -12,7 +12,8 @@ const aboutMe = {
          css: ["Bootstrap", "Materialize", "Material Design"]
       },
       backEnd: {
-         csharp: ["Asp.net Core", "MVC", "MVC Core", "Web API", "Web Services", "WCF", "LinQ", "Entity Framework"]
+         csharp: ["Asp.net Core", "MVC", "MVC Core", "Web API", "Web Services", "WCF", "LinQ", "Entity Framework"],
+         misc: ["SOLID Principles", "Design Patterns"]
       },
       databases: ["MySQL", "SQLServer", "BigQuery"],
       businessInteligence: ["Tableau"],
