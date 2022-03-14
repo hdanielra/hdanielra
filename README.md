@@ -16,7 +16,7 @@ const aboutMe = {
       },
       databases: ["MySQL", "SQLServer", "BigQuery"],
       businessInteligence: ["Tableau"],
-      misc: ["SSIS", "Data Fusion", "SSAS", "Cypress", "SAP"]
+      misc: ["SSIS", "Data Fusion", "SSAS", "SAP"]
       
    },
    currentOccupation: ["Senior Developer and Senior BI Developer"],
