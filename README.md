@@ -5,7 +5,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [CSharp, Python, Abap, Javascript, Typescript, HTML, CSS ],
+   code: [C#, Python, Abap, PHP, Javascript, Typescript, HTML, CSS ],
    technologies: {
       frontEnd: {
          js: ["Angular"],
